@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Math
+namespace MathProject
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Square square = new Square();
         }
     }
 }
